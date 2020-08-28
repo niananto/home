@@ -20,7 +20,15 @@ fa-icon: "fas fa-code"
 Follow me on [GitHub](https://github.com/niananto) -->
 
 
+<div class="github-chart-container">
+    <h3>Github Statistics</h3>
+    <a href="https://github.com/niananto">
+        <img src="https://github-readme-stats.vercel.app/api?username=niananto&show_icons=true&count_private=true" alt="Ananto's Github chart" height="180px" style="float:left" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niananto&layout=compact" height="180px" />
+    </a>
+</div>
 
+<h3>Public Repositories</h3>
 <div class="project-flex-container">  
     <div class="project-list">
         <!-- here would be the list of repos -->
@@ -38,7 +46,7 @@ Follow me on [GitHub](https://github.com/niananto) -->
 </div>
 
 <div class="github-chart-container">
-    <h1>My Github Contribution Chart</h1>
+    <h3>Github Contribution Chart</h3>
     <a href="https://github.com/niananto">
         <div id="github-chart">
             <img src="http://ghchart.rshah.org/niananto" alt="Ananto's Github chart" />
