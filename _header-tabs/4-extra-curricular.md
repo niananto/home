@@ -15,7 +15,10 @@ fa-icon: "fas fa-trophy"
 
 -*Volunteer Content Writer, [Buet System Analysis, Design and Development Community (BSADD)](https://cse.buet.ac.bd/bsadd/)*  
 
--*Physics Instructor, [Udvash](https://udvash.com/)*  
+-*Physics & ICT Instructor, [Udvash](https://udvash.com/)*  
+
+-*Physics, Math & ICT Instructor, [ROOTS](https://rootsedulive.com/)*  
+
 
 <br>
 **Former**

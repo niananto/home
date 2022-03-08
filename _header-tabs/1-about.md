@@ -5,9 +5,15 @@ permalink: /about
 fa-icon: "fas fa-info"
 ---
 
-Hi !  
-My name is YOU-KNOW-WHO and I am not a terrorist :(  
+Hi;  
+My name is YOU-KNOW-WHO :) ;  
 
-I am currently studying Computer Science and Engineering as a major at Bangladesh University of Enginnering & Technology (BUET) in my freshman year. Skilled in C/C++ and Python, love Web and Android Development, have an interest in Data Science.
+I am currently studying Computer Science and Engineering as a major at Bangladesh University of Enginnering & Technology (BUET) in my second last year;   
 
-Up for Student Internship Programs. Also open for Tutor/Mentor roles.
+Skilled in C/C++ and Java, love Web Development, have a thing for contributing in large projects;  
+
+Up for Junior Web Dev roles, both front and the back end. Also open for Internships, Tutor/Mentor roles;  
+
+It was maybe the year 2019 when I created my linkedin account and it said that I needed a bio. I wrote there 'The Hardworking Member of The Team' and I still stand by that line about myself, if that's what you were looking for;  
+
+return;  
