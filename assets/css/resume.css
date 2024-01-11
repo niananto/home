@@ -33,20 +33,20 @@ body {
 }
 
 .resume {
-    width: 800px;
+    width: 840px;
     height: auto;
     display: flex;
     margin: 50px auto;
 }
 
 .resume .resume_left {
-    width: 280px;
+    width: 320px;
     background: #112238;
 }
 
 .resume .resume_left .resume_profile {
     width: 80%;
-    height: 224px;
+    height: 240px;
     border: 3px solid white;
     margin: 20px auto;
 }
@@ -102,7 +102,7 @@ body {
 
 .resume .resume_left ul li .icon {
     width: 35px;
-    height: 35px;
+    height: 20;
     background: #112238;
     color: #fff;
     border-radius: 60%;
@@ -193,6 +193,14 @@ body {
     overflow: hidden;
 }
 
+.resume .resume_right .resume_work ul li {
+    border-bottom: 1px solid #ccc;
+}
+
+.resume .resume_right .resume_work ul li:last-child {
+    border-bottom: 0px;
+}
+
 .resume .resume_right ul li {
     position: relative;
 }
@@ -209,4 +217,9 @@ body {
 
 .resume .resume_right ul li:last-child .info {
     margin-bottom: 0;
+}
+
+.resume .resume_right .resume_project a {
+    color: #112238;
+    text-decoration: none;
 }
