@@ -13,6 +13,8 @@ fa-icon: "fas fa-trophy"
 <br>
 **Current**  
 
+* *Director (Marketing & Communication), [Buet Cyber Security Club](https://www.facebook.com/buetsec)*
+
 * *Volunteer Content Writer, [Buet System Analysis, Design and Development Community (BSADD)](https://cse.buet.ac.bd/bsadd/)*  
 
 * *Physics & ICT Instructor, [Udvash](https://udvash.com/)*  
