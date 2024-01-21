@@ -177,6 +177,11 @@ body {
     margin-bottom: 3px;
 }
 
+.resume .resume_left .resume_content .resume_item a {
+    color: #fff;
+    text-decoration: none;
+}
+
 .resume .resume_right {
     width: 520px;
     background: #fff;
@@ -219,7 +224,7 @@ body {
     margin-bottom: 0;
 }
 
-.resume .resume_right .resume_project a {
+.resume .resume_right a {
     color: #112238;
     text-decoration: none;
 }
